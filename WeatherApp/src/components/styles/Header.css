@@ -1,0 +1,11 @@
+
+.head{
+      position:static;
+      display:flex;
+      height:4rem;
+      background-color:transparent;
+      gap:5px;
+      justify-content:end;
+      border-bottom:5px solid blue;
+    }
+    
